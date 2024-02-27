@@ -9,4 +9,4 @@
 
 ## Звіт
 
-Посилання на звіт доступне [тут](https://docs.google.com/document/d/1bLwDd0u-Oi6e-apiYTJUK-U225ZroFEH/edit?usp=sharing&ouid=116830995578182965654&rtpof=true&sd=true).
+Посилання на звіт доступне [тут](https://docs.google.com/document/d/1TpvGDhOm-Qw4LgA8h-rAuv1NaHWGolwYYoOMhac4j1w/edit?usp=sharing).
